@@ -1,7 +1,7 @@
 ---
-title: "About US Cyber Response"
 date: 2025-03-15T12:00:00-04:00
 draft: false
+layout: "about"
 ---
 
 ## Our Mission
