@@ -1,11 +1,11 @@
-baseURL = "http://localhost:1313/"
+baseURL = "https://blog.uscyberresponse.org/"
 languageCode = "en-us"
 title = "US Cyber Response Blog"
 theme = "PaperMod"
 
 # Set default theme to light mode
 [params]
-  description = "Insights on cybersecurity, technology policy, and national security"
+  description = "Insights on AI, cybersecurity, technology policy, and national security"
   ShowReadingTime = true
   ShowShareButtons = true
   ShowPostNavLinks = true
@@ -20,3 +20,8 @@ theme = "PaperMod"
     name = "Posts"
     url = "/posts/"
     weight = 10
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    weight = 20
