@@ -1,0 +1,19 @@
+baseURL = "http://localhost:1313/"
+languageCode = "en-us"
+title = "US Cyber Response Blog"
+theme = "PaperMod"
+
+[params]
+  description = "Insights on cybersecurity, technology policy, and national security"
+  ShowReadingTime = true
+  ShowShareButtons = true
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+  ShowCodeCopyButtons = true
+  
+[menu]
+  [[menu.main]]
+    identifier = "posts"
+    name = "Posts"
+    url = "/posts/"
+    weight = 10

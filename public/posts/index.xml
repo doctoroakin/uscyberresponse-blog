@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on US Cyber Response Blog</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on US Cyber Response Blog</description>
+    <generator>Hugo -- 0.145.0</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 15 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>US Cyber Response&#39;s Recommendations to OSTP for the U.S. AI Action Plan</title>
+      <link>http://localhost:1313/posts/ai-action-plan/</link>
+      <pubDate>Fri, 15 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/ai-action-plan/</guid>
+      <description>&lt;p&gt;In response to the White House&amp;rsquo;s Request for Information on an AI Action Plan, US Cyber Response has submitted recommendations to the Office of Science and Technology Policy (OSTP). Our recommendations are designed to better prepare America to capture the economic benefits and national security implications of powerful AI systems.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Policy Recommendations on Implementing a Tiered Security Clearance Process for Frontier AI Workers&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Introduction &amp;amp; Rationale&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;In alignment with Executive Order 14179—designed to remove barriers to American AI leadership and promote human flourishing, economic competitiveness, and national security—this recommendation addresses a critical and increasingly urgent risk in frontier AI: the insider threat. U.S. companies are at the forefront of AI innovation, and the most significant risks can originate from within.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
